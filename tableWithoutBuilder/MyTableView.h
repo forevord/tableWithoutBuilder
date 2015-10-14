@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface MyTableView : UITableViewController
-
+@property (nonatomic, strong) NSArray *array;
 @end

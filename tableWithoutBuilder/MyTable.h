@@ -9,6 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface MyTable : NSObject
-@property (nonatomic, strong) NSArray *array;
 
 @end

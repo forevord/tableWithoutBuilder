@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    _myLabel.text = _temp;
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 

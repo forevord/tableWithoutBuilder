@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 @property (nonatomic, strong)NSString *temp;
+@property (weak, nonatomic) IBOutlet UILabel *myLabel;
 
 @end
 

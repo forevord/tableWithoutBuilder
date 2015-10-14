@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  MyTable.m
 //  tableWithoutBuilder
 //
 //  Created by Pavel Salkevich on 14.10.15.
 //  Copyright © 2015 Pavel Salkevich. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "MyTable.h"
 
-@interface ViewController : UIViewController
-@property (nonatomic, strong)NSString *temp;
+@implementation MyTable
 
 @end
-

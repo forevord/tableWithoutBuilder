@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MyTableView.h
 //  tableWithoutBuilder
 //
 //  Created by Pavel Salkevich on 14.10.15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-@property (nonatomic, strong)NSString *temp;
+@interface MyTableView : UITableViewController
 
 @end
-
